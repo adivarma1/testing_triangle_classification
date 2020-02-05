@@ -1,0 +1,6 @@
+In order to make sure all the possible outcomes were tested, different values of sides were taken into consideration. 
+At first we need to check if the sides actually form a triangle.
+Then we need to make sure strings and other special characters might be entered as input.
+Negative values are also a possible input that must be handled.
+For the right triangle we need to make sure that if negative numbers are entered it must be an invalid triangle.
+
